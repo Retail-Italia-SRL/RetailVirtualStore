@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Outside
+  - ExteriorWall
+  - Module
+  - Room
+  - Wall
+  - Ceil
+  - BlackCanvas
+  - Camera_PDF_Planograms
+  - LeanTouchCam
+  - Roof
+  - Floor
+  - Options
+  - Fixtures
+  - LogicZones
+  - Architectures
+  - MovementBlocker
+  - IconStand
+  - LogicZone_Single
+  - StandFather
+  - PrefabStandContainer
+  - Article
+  - Zones
+  - Identificator
+  - Zones_Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FX
+  - Floor
+  - Wall
+  - Join
+  - RoomBox
+  - Ghost
+  - Ceil
+  - Area
+  - Module
+  - ExteriorWall
+  - Roof
+  - Outside
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
